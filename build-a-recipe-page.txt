@@ -1,0 +1,35 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Spam Kimpap</title>
+</head>
+<body>
+  <h1> Spam Kimbap </h1>
+  <p> Spam Kimbap is a delicious snack that you can eat any time of the day. It's also super easy to make and very filling.</p>
+  <h2> 
+    Ingredients </h2>
+    <ul>
+      <li> Rice </li> 
+      <li> Spam </li>
+      <li> Danmuji </li>
+      <li> Kim </li>
+      <li> Egg </li>
+      </ul>
+    <h2> Instructions </h2>
+    <ol> 
+      <li> Cook the rice. </li> 
+      <li> Take a sheet of kim and spread some rice on it, about 1 cm thick. </li>
+      <li> Place a strip of spam, egg, and danmuji on the rice. </li>
+      <li> Roll the kim up tightly, being careful not to spill any ingredients. </li> 
+      <li> Slice the kimbap. </li>
+
+      <img src="https://i0.wp.com/beyondsweetandsavory.com/wp-content/uploads/2025/05/Perilla-spam-kimbap-VyTran-3.jpg?w=1200&ssl=1" alt="Delicious Spam Kimbap">
+
+</body>
+</html>
+
+** end of index.html **
+
